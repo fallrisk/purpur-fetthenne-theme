@@ -12,5 +12,6 @@
 #include <imgui.h>
 
 void StyleColorsPurple();
+void StyleColorVulkan();
 
 #endif //IMGUI_THEME_COLORS_H

@@ -46,7 +46,8 @@ int main(int, char**)
   // Setup style
   //ImGui::StyleColorsDark();
   //ImGui::StyleColorsClassic();
-  StyleColorsPurple();
+  //StyleColorsPurple();
+  StyleColorVulkan();
 
   // Load Fonts
   // - If no fonts are loaded, dear imgui will use the default font. You can also load multiple fonts and use ImGui::PushFont()/PopFont() to select them.
@@ -66,8 +67,8 @@ int main(int, char**)
   bool show_demo_window = false;
   bool show_another_window = false;
   //ImVec4 clear_color = ImVec4(0.45f, 0.55f, 0.60f, 1.00f);
-  ImVec4 clear_color = ImVec4(0.364f, 0.327f, 0.380f, 1.000f);
-
+  //ImVec4 clear_color = ImVec4(0.364f, 0.327f, 0.380f, 1.000f);
+  ImVec4 clear_color = ImVec4(0.4f, 0.4f, 0.4f, 1.0f);
   // Main loop
   while (!glfwWindowShouldClose(window))
   {
