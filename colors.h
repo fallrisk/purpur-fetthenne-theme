@@ -13,5 +13,6 @@
 
 void StyleColorsPurple();
 void StyleColorVulkan();
+void StyleDarkAndPurple();
 
 #endif //IMGUI_THEME_COLORS_H
