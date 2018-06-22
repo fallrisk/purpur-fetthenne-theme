@@ -26,3 +26,15 @@ $ mkdir robot
 $ cd robot
 $ wget https://github.com/google/roboto/releases/download/v2.138/roboto-android.zip
 $ unzup roboto-android.zip
+
+## Run from Project Root
+
+You must run from the project root so that the code can find the Roboto Font. You could
+also modify the path to the font in the code.
+
+$ mkdir build
+$ cd build
+$ cmake -GNinja ..
+$ ninja
+$ cd ..
+$ ./build/imgui-theme
