@@ -4,7 +4,7 @@
 ## Get Dear Imgui
 
 ```shell
-git clone https://github.com/ocornut/imgui
+$ git clone https://github.com/ocornut/imgui
 ```
 
 ## Get GLFW
@@ -12,15 +12,16 @@ git clone https://github.com/ocornut/imgui
 ### Install Libraries
 
 ```shell
-sudo apt install libglfw3 libglfw3-dev
+$ sudo apt install libglfw3 libglfw3-dev
 ```
 
 ### Build GLFW
 
 ```shell
-git clone git@github.com:glfw/glfw.git
-http://www.glfw.org/docs/latest/compile.html
+$ git clone git@github.com:glfw/glfw.git
 ```
+
+[Steps to compile.](http://www.glfw.org/docs/latest/compile.html)
 
 ## Update CMakeLists File
 
