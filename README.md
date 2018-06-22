@@ -3,7 +3,7 @@ Purpur-Fetthenne Imgui Theme
 
 This is a dark, purple theme for [Dear Imgui](https://github.com/ocornut/imgui).
 
-![Screenshot](https://imgur.com/a/kZ8fHIi)
+![Screenshot](https://i.imgur.com/NCTvXio.png)
 
 # Building
 
