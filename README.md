@@ -1,5 +1,15 @@
 
+Purpur-Fetthenne Imgui Theme
+
+This is a dark, purple theme for [Dear Imgui](https://github.com/ocornut/imgui).
+
 # Building
+
+1. Get Dear Imgui
+2. Get GLFW
+3. Update CMakeLists file.
+4. Get Roboto font.
+5. Build and run Purp.
 
 ## Get Dear Imgui
 
