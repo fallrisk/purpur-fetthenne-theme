@@ -76,6 +76,8 @@ int main(int, char**)
   //ImVec4 clear_color = ImVec4(0.4f, 0.4f, 0.4f, 1.0f);
   ImVec4 clear_color = ImVec4(0.125f, 0.125f, 0.125f, 1.000f);
 
+  ImGui::GetIO().FontGlobalScale = 2.0;
+
   // Main loop
   while (!glfwWindowShouldClose(window))
   {
