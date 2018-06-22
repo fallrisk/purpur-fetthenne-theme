@@ -30,8 +30,8 @@ Update the paths in the CMakeLists file for gl3w and imgui. GL3W is included wit
 ## Get Roboto Font
 
 ```shell
-$ mkdir robot
-$ cd robot
+$ mkdir roboto
+$ cd roboto
 $ wget https://github.com/google/roboto/releases/download/v2.138/roboto-android.zip
 $ unzup roboto-android.zip
 ```
