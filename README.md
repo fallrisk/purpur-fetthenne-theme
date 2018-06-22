@@ -9,19 +9,22 @@ $ git clone https://github.com/ocornut/imgui
 
 ## Get GLFW
 
+You can either install the libraries or download the source. If you download the source
+you also need to build the library.
+
 ### Install Libraries
 
 ```shell
 $ sudo apt install libglfw3 libglfw3-dev
 ```
 
-### Build GLFW
+### Or Build GLFW
 
 ```shell
 $ git clone git@github.com:glfw/glfw.git
 ```
 
-[Steps to compile.](http://www.glfw.org/docs/latest/compile.html)
+Follow these [steps to compile.](http://www.glfw.org/docs/latest/compile.html)
 
 ## Update CMakeLists File
 
